@@ -1,0 +1,15 @@
+---
+Title: Cloud Computing Notebook
+Author: Christine Wanjala
+Date: May 1, 2014
+---
+
+# Launching a new instance
+
+To do this, set up an account with amazon AWS (Amazon Web Services). 
+
+In the market place choice, this tutorial assumes debian is chosen. Follow the steps below. 
+
+Open the Amazon EC2 console at https://console.aws.amazon.com/ec2/.
+
+From the console dashboard, click Launch Instance.
